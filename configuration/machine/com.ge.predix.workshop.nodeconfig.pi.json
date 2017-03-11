@@ -1,0 +1,17 @@
+[
+   {
+     "nodeName": "Light:VBK",
+     "nodeType": "Light",
+     "nodePin": 1
+   },
+   {
+      "nodeName": "RotaryAngle:VBK",
+      "nodeType": "RotaryAngle",
+      "nodePin": 2
+   },
+   {
+      "nodeName": "TempAndHumidity:VBK",
+      "nodeType": "TempAndHumidity",
+      "nodePin": 4
+    }
+]
